@@ -1,2 +1,5 @@
 Hello VS code
 This is my first self practice for devops
+
+Git is very important for devops
+i AM learning git step by step
